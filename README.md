@@ -16,3 +16,6 @@ It has awesome feautures such as:
 13.It can remind all your tasks
 14.It can create ppts
 15.It can create word documents and pdfs
+16.It can tell you jokes
+17.It can say you news
+

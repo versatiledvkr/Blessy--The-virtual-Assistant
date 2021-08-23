@@ -1,0 +1,17 @@
+-----------------------------------------------------SETUP---------------------------------------------------
+*Install python 3.9 in your pc or mac
+*Go to windows powershell or command prompt in pc and Go to terminal in mac and type the commands given below or copy paste;
+pip install SpeechRecognition
+pip install pyttsx3
+pip install pyautogui
+pip install pywhatkit
+pip install wikipedia
+pip install python-pptx
+pip install python-docx
+pip install datetime
+pip install fpdf
+pip install webbrowser
+pip install playsound
+pip install os
+pip install pyjokes
+pip install wolframalpha
